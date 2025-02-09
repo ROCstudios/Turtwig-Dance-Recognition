@@ -40,8 +40,6 @@ Adds confidence scores for each keypoint to filter noisy detections.
 
 ### 2. Track over time.  Measuring to make sure there is fast movement between one pose and the next.
 
-
-
 Identify movement patterns instead of static poses.
 
 Build time-series data for smoothness & transitions.
@@ -79,6 +77,12 @@ Build time-series data for smoothness & transitions.
 ```
 
 ### 3. Measure stability.  If the person is frequently unstable then they are just moving randomly, not dancing.
+
+
+
+https://github.com/user-attachments/assets/76aceba5-6675-44a7-a7ac-cea411669f06
+
+
 
 Identify whether dancers maintain balance.
 
