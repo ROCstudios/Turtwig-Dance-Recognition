@@ -3,6 +3,7 @@
 [Detecting poses in 5 minutes of development](https://www.loom.com/share/b1aa128e1cce4944bcd96fc25534bc2a?sid=342d3c8f-b58d-490b-8bfc-eaef2ad14dda )
 
 ![1](https://github.com/user-attachments/assets/2c379607-5895-4e0d-a020-43bc91820882)
+![landmarks](https://github.com/user-attachments/assets/f1440845-77f5-42f5-856a-c93bc2842306)
 
 Capture key poses 
 
@@ -40,6 +41,8 @@ Adds confidence scores for each keypoint to filter noisy detections.
 
 ### 2. Track over time.  Measuring to make sure there is fast movement between one pose and the next.
 
+<img src="https://github.com/Yuni0217/Transpdance/blob/main/Figures/Prototype_gif.gif" alt="Logo">
+
 Identify movement patterns instead of static poses.
 
 Build time-series data for smoothness & transitions.
@@ -76,13 +79,9 @@ Build time-series data for smoothness & transitions.
 }
 ```
 
-### 3. Measure stability.  If the person is frequently unstable then they are just moving randomly, not dancing.
-
-
+### 3. Measure stability to dynamically track new poses we haven't considered.  If the person is frequently unstable then they are just moving randomly, not dancing.
 
 https://github.com/user-attachments/assets/76aceba5-6675-44a7-a7ac-cea411669f06
-
-
 
 Identify whether dancers maintain balance.
 
