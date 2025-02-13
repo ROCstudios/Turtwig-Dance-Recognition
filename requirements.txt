@@ -1,0 +1,14 @@
+numpy
+scipy
+cython
+mido
+pytest
+pyaudio
+pyfftw
+
+opencv-python
+mediapipe
+librosa
+pydub 
+simpleaudio 
+pygame
