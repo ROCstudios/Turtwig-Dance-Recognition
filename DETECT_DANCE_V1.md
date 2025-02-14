@@ -1,3 +1,8 @@
+Asks from Imigon team:
+
+- [ ] Dictionary of dances with body angles outlined.  What angle percentages for most common poses?
+- [ ] More detailed explanantion of the connection between tempo and pose.
+
 ## Defining poses in static images
 
 In order to define dance in motion we must define dance in a static state.  This means identifying the various body parts.
@@ -67,6 +72,13 @@ A person falling forward may look like dancing but lacks **controlled angles**:
 
 Pose Vector for Falling:
 $P_{\text{falling}} = [90^\circ, 55^\circ, 160^\circ, 85^\circ]$
+
+**Video Pose Capture**
+
+| [![watch](https://img.youtube.com/vi/yCsr4Qf0NfI/0.jpg)](https://youtube.com/shorts/yCsr4Qf0NfI?feature=share) | [![watch](https://img.youtube.com/vi/L2KsvpgKvX4/0.jpg)](https://youtube.com/shorts/L2KsvpgKvX4?feature=share) | [![watch](https://img.youtube.com/vi/yeGvZiJ_1Ow/0.jpg)](https://youtube.com/shorts/yeGvZiJ_1Ow?feature=share) |
+|--|--|--|
+
+Does a great job recognizing poses but if only small body parts are moving we miss them.
 
 ## Poses hit in coordination with tempo
 
