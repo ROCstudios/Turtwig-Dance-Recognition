@@ -49,6 +49,7 @@ $P_{\text{dance}} = [140^\circ, 75^\circ, 120^\circ, 40^\circ]$
 
 
 **Ballet Pose (Arabesque)**
+
 Ballet movements have:  
 ✅ Torso Slightly Tilted Back (≈160°)  
 ✅ Arms Extended Gracefully (≈120° at the shoulder, 170° at the elbow)  
@@ -58,6 +59,7 @@ Pose Vector for Ballet:
 $P_{\text{ballet}} = [160^\circ, 120^\circ, 50^\circ, 70^\circ]$
 
 **A Falling Person (NOT Dance)**
+
 A person falling forward may look like dancing but lacks **controlled angles**:  
 ❌ Torso Collapsing (≈90° or less)  
 ❌ Arms Out of Sync (random angles, 30-150° variance)  
