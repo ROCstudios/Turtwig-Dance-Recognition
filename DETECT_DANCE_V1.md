@@ -75,6 +75,8 @@ $P_{\text{falling}} = [90^\circ, 55^\circ, 160^\circ, 85^\circ]$
 
 **Video Pose Capture**
 
+_Click image to watch video implementation_
+
 | [![watch](https://img.youtube.com/vi/yCsr4Qf0NfI/0.jpg)](https://youtube.com/shorts/yCsr4Qf0NfI?feature=share) | [![watch](https://img.youtube.com/vi/L2KsvpgKvX4/0.jpg)](https://youtube.com/shorts/L2KsvpgKvX4?feature=share) | [![watch](https://img.youtube.com/vi/yeGvZiJ_1Ow/0.jpg)](https://youtube.com/shorts/yeGvZiJ_1Ow?feature=share) |
 |--|--|--|
 
